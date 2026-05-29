@@ -114,10 +114,6 @@ Committed to continuous learning, professional growth, and building impactful di
 
 </div>
 
----
 
-<div align="center">
 
-### ✨ Transforming ideas into modern and impactful digital experiences.
 
-</div>
