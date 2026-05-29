@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hooriya Ahmed
+# 𝑯𝒐𝒐𝒓𝒊𝒚𝒂 𝑨𝒉𝒎𝒆𝒅
 
 ### Full-Stack Developer • Web Application Developer • Software Development Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&weight=600\&size=24\&pause=1200\&color=6C63FF\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Web+Developer;Building+Modern+%26+Responsive+Applications;Frontend+%26+Backend+Development;Passionate+About+Clean+Code+%26+UI%2FUX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&weight=700\&size=28\&pause=1000\&color=6A0DAD\&center=true\&vCenter=true\&width=900\&lines=Full-Stack+Developer;Building+Modern+%26+Scalable+Applications;Frontend+%26+Backend+Development;Passionate+About+UI%2FUX+%26+Clean+Code;Continuous+Learning+%26+Innovation)](https://git.io/typing-svg)
 
 </div>
 
