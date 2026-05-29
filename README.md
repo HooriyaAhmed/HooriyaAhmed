@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+%26+Responsive+Applications;Frontend+%26+Backend+Development;Passionate+About+Clean+Code+%26+UI%2FUX" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=for-the-badge&color=blueviolet" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -22,7 +16,7 @@
 
 A passionate and motivated **Full-Stack Developer** with hands-on experience in designing and developing responsive web applications using modern technologies. Skilled in both front-end and back-end development with a strong focus on clean UI design, scalable architecture, and efficient problem-solving.
 
-Experienced in working with technologies including **HTML, CSS, JavaScript, Bootstrap, PHP, C#, .NET, MySQL, SQL Server (SSMS), and PowerShell** through academic and personal development projects.
+Experienced in working with technologies including **HTML, CSS, JavaScript, PHP, C#, .NET MVC, Flutter, MySQL, SQL Server Management Studio (SSMS), and PowerShell** through academic and personal development projects.
 
 Committed to continuous learning, professional growth, and building impactful digital solutions that deliver excellent user experiences.
 
@@ -49,25 +43,51 @@ Committed to continuous learning, professional growth, and building impactful di
 ## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+---
+
+## Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,dotnet" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
+
+---
 
 ## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=php,cs" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
-## Database Technologies
+---
+
+## App Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+---
+
+## Database Management
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSMS-SQL_Server_Management_Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
+
+---
 
 ## Platforms & Tools
 
