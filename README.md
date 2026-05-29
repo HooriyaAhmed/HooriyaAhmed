@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer • Web Application Developer • Software Development Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&weight=700\&size=28\&pause=1000\&color=6A0DAD\&center=true\&vCenter=true\&width=900\&lines=Full-Stack+Developer;Building+Modern+%26+Scalable+Applications;Frontend+%26+Backend+Development;Passionate+About+UI%2FUX+%26+Clean+Code;Continuous+Learning+%26+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Building+Modern+%26+Scalable+Applications;Frontend+%26+Backend+Development;Passionate+About+UI%2FUX+%26+Clean+Code;Continuous+Learning+%26+Innovation)](https://git.io/typing-svg)
 
 </div>
 
