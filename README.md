@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 About Me<br><br>Hi, I'm Hooriya Ahmed . an aspiring Full-Stack Developer with a strong interest in modern web technologies and software development. I enjoy building responsive and user-friendly applications while continuously improving my technical skills through practical projects and hands-on experience.<br><br>I have worked on several academic and personal projects involving front-end development, back-end logic, and database management using technologies such as HTML, CSS, JavaScript, Bootstrap, PHP, C#, MySQL, and SQL Server (SSMS).<br><br>Passionate about problem-solving and continuous learning, I am focused on growing as a professional developer
+👩‍💻 About Me<br><br>Hi, I'm Hooriya Ahmed . an aspiring Full-Stack Developer with a strong interest in modern web technologies and software development. I enjoy building responsive and user-friendly applications while continuously improving my technical skills through practical projects and hands-on experience.<br><br>I have worked on several academic and personal projects involving front-end development, back-end logic, and database management using technologies such as HTML, CSS, JavaScript, Bootstrap, PHP, C#, MySQL, and SQL Server (SSMS).<br><br>Passionate about problem-solving and continuous learning, I am focused on growing as a professional developer.
 
 
 ## 🌐 Socials:
