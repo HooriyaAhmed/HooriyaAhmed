@@ -1,75 +1,89 @@
-# 💫 About Me
+<div align="center">
 
-Hi, I'm **Hooriya Ahmed** — an aspiring **Full-Stack Developer** passionate about building modern, responsive, and user-focused web applications.
+# Hi 👋, I'm Hooriya Ahmed
 
-I have hands-on experience working with both front-end and back-end technologies through academic and personal projects. My technical skill set includes **HTML, CSS, JavaScript, Bootstrap, PHP, C#, MySQL, SQL Server (SSMS), and .NET**.
+### 🚀 Aspiring Full-Stack Developer | Passionate About Modern Web Technologies
 
-I enjoy solving problems, learning new technologies, and continuously improving my development skills through practical experience and real-world projects. My goal is to grow as a professional software developer and contribute to impactful digital solutions.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+%26+Backend+Enthusiast;Passionate+About+Clean+UI%2FUX;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 💫 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/hooriyaparveen)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:hoork7785@gmail.com)
+* 💻 Passionate about building responsive and user-friendly web applications
+* 🌱 Continuously learning and improving modern development skills
+* ⚡ Interested in Frontend, Backend, Databases, and Software Development
+* 🎯 Focused on writing clean, scalable, and maintainable code
+* 🚀 Dedicated to becoming a professional Full-Stack Developer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/hooriyaparveen" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hoork7785@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
+## 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
-### Backend & Programming
+## ⚙️ Backend & Programming
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=php,cs,dotnet" />
+</p>
 
-### Database
+<p>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+## 🗄️ Database Management
 
-### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge\&logo=apache\&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+## 🛠️ Tools & Platforms
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=HooriyaAhmed\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://streak-stats.demolab.com?user=HooriyaAhmed\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed\&theme=tokyonight\&hide_border=true\&layout=compact)
+<p>
+<img src="https://skillicons.dev/icons?i=netlify" />
+<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=HooriyaAhmed\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=10)
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-# ✨ Developer Quote
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=HooriyaAhmed&theme=tokyonight&hide_border=true"/>
 
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=HooriyaAhmed\&label=Profile%20Views\&color=0e75b6\&style=flat)
+</div>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+<div align="center">
+
+### ✨ "Building modern digital experiences through creativity, code, and continuous learning."
+
+</div>
