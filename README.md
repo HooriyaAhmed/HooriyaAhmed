@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** focused on designing and building responsive, sca
 | 🛠️ **Core Stack** | HTML, CSS, JavaScript, PHP, C#, .NET MVC, Flutter |
 | 🗄️ **Databases** | MySQL, SQL Server Management Studio (SSMS) |
 | 📍 **Focus Areas** | Scalable Architecture · Clean UI/UX · Problem Solving |
-| 🌱 **Currently Learning** | Advanced .NET MVC, Flutter for cross-platform apps |
+| 🌱 **Currently Practicing** | Advanced .NET MVC, Flutter for cross-platform apps |
 | 🤝 **Open To** | Collaborations, freelance projects, full-time opportunities |
 
 <br>
