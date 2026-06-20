@@ -6,21 +6,37 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Building+Modern+%26+Scalable+Applications;Frontend+%26+Backend+Development;Passionate+About+UI%2FUX+%26+Clean+Code;Continuous+Learning+%26+Innovation)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=HooriyaAhmed&color=6A0DAD&style=for-the-badge&label=PROFILE+VIEWS)
+
 <br>
 
 ## 💫 Professional Summary
 
 </div>
 
-A passionate and motivated **Full-Stack Developer** with hands-on experience in designing and developing responsive web applications using modern technologies. Skilled in both front-end and back-end development with a strong focus on clean UI design, scalable architecture, and efficient problem-solving.
+A passionate and motivated **Full-Stack Developer** with hands-on experience in designing and developing responsive web applications using modern technologies. Skilled in both front-end and back-end development, with a strong focus on clean UI design, scalable architecture, and efficient problem-solving.
 
 Experienced in working with technologies including **HTML, CSS, JavaScript, PHP, C#, .NET MVC, Flutter, MySQL, and SQL Server Management Studio (SSMS)**.
 
 Committed to continuous learning, professional growth, and building impactful digital solutions that deliver excellent user experiences.
 
+<div align="center">
+
 <br>
 
+## ⚡ Quick Highlights
+
+</div>
+
+- 🔭 Currently building responsive, full-stack web applications
+- 🌱 Continuously sharpening skills in **.NET MVC** and **Flutter**
+- 💡 Strong believer in clean code, scalable design, and great UX
+- 🎯 Goal-driven: focused on delivering production-ready, reliable software
+- 🤝 Open to collaboration on web & mobile app development projects
+
 <div align="center">
+
+<br>
 
 ## 🌐 Professional Links
 
@@ -62,6 +78,9 @@ Committed to continuous learning, professional growth, and building impactful di
 
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -75,6 +94,12 @@ Committed to continuous learning, professional growth, and building impactful di
 
 <br>
 
-### 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
+<br>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer)
 
 </div>
