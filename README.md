@@ -75,13 +75,7 @@ I'm a **Full-Stack Developer** focused on designing and building responsive, sca
 
 ## 🚀 Featured Projects
 
-<!-- Replace these with your real projects: title, one-line description, and repo link -->
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Project Name](https://github.com/HooriyaAhmed)** | One-line description of what the project does and the problem it solves. | `.NET MVC` `MySQL` |
-| **[Project Name](https://github.com/HooriyaAhmed)** | One-line description of what the project does and the problem it solves. | `Flutter` `Dart` |
-| **[Project Name](https://github.com/HooriyaAhmed)** | One-line description of what the project does and the problem it solves. | `PHP` `JavaScript` |
 
 <br>
 
