@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:0A66C2&height=180&section=header&text=Hooriya%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Scalable%20Web%20%26%20Mobile%20Applications&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+
 
 <br>
 
