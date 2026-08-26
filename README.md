@@ -1,92 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A0DAD&height=200&section=header&text=Hooriya%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Graduate&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Web+%26+Mobile+Application+Developer;Python+%7C+PHP+%7C+C%23+%7C+Dart;UI%2FUX+%26+Graphic+Design+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:0A66C2,100:00C9FF&height=220&section=header&text=HOORIYA%20AHMED&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20GRADUATE&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Hooriya+Ahmed+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+PHP+%7C+C%23+%7C+Dart+%F0%9F%9A%80;Web+%26+Mobile+Application+Developer+%F0%9F%93%B1;UI%2FUX+%26+Graphic+Design+Enthusiast+%F0%9F%8E%A8" />
+
+<br><br>
 
 <a href="https://linkedin.com/in/hooriyaparveen">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:hoork7785@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/HooriyaAhmed">
-<img src="https://img.shields.io/badge/GitHub-HooriyaAhmed-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=flat-square&color=6A0DAD&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm a **Software Engineering graduate and Full-Stack Developer** with a strong foundation in web and application development.
+## 👩‍💻 ABOUT ME
 
-I enjoy building **responsive websites, web applications, and mobile applications**, while also focusing on clean interfaces and user-friendly experiences.
+</div>
 
-My interests include **Full-Stack Development, UI/UX Design, Graphic Design, REST APIs, databases, and application development**.
+I'm a **Software Engineering graduate and Full-Stack Developer** passionate about building modern, responsive, and user-friendly digital solutions.
 
-I'm continuously improving my technical skills and exploring modern technologies to build practical and meaningful digital solutions.
+💻 I work across **frontend, backend, databases, and mobile development**.
+
+🚀 I enjoy turning ideas into functional applications and continuously improving my development skills.
+
+🎨 I also have an interest in **UI/UX and Graphic Design**, allowing me to combine development with creative design.
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+
+## ⚡ TECH STACK
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" />
 
-### ⚙️ Backend & Programming
+### 🧠 Programming & Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,cs,dotnet,laravel,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,php,cs,dotnet,laravel,fastapi&perline=6" />
 
 ### 📱 Mobile Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=dart,flutter" />
-</p>
+<img src="https://skillicons.dev/icons?i=dart,flutter&perline=2" />
 
-### 🗄️ Databases
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mssql&perline=2" />
 
-### 🎨 Design
+### 🎨 Design & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=4" />
 
-**UI/UX Design • Graphic Design**
+<br>
 
-### 🔧 Tools & Platforms
+**UI/UX Design • Graphic Design • SQL Server Management Studio**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**SQL Server Management Studio (SSMS)**
+</div>
 
 ---
 
-## 🚀 What I Work With
+<div align="center">
+
+## 🚀 WHAT I BUILD
+
+</div>
 
 ```text
-Frontend        → HTML • CSS • JavaScript • Bootstrap
-Backend         → Python • FastAPI • PHP • Laravel • C# • .NET
-Mobile          → Dart • Flutter
-Databases       → MySQL • SQL Server • SSMS
-APIs            → REST APIs • JSON
-Design          → UI/UX • Graphic Design
-Tools           → Git • GitHub • VS Code
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   🌐 Responsive Web Applications                 ║
+║                                                  ║
+║   ⚙️  Backend Systems & REST APIs                ║
+║                                                  ║
+║   📱 Cross-Platform Mobile Applications          ║
+║                                                  ║
+║   🗄️  Database-Driven Applications              ║
+║                                                  ║
+║   🎨 UI/UX & Graphic Design                     ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
