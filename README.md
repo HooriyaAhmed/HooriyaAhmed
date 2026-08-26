@@ -1,149 +1,136 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="30%" align="center">
-<img src="https://github.com/HooriyaAhmed.png" width="180" style="border-radius:50%;"/>
-</td>
-<td width="70%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hooriya%20Ahmed&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=18&animation=fadeIn&color=0:0F172A,100:2563EB" width="100%"/>
 
-# Hooriya Ahmed
-### Full-Stack Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Web+%26+Mobile+Developer;Python+%7C+PHP+%7C+C%23+%7C+JavaScript+%7C+Dart;FastAPI+%7C+Laravel+%7C+.NET+%7C+Flutter;Turning+Ideas+Into+Scalable+Software" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=2563EB&center=false&vCenter=true&width=550&lines=Full-Stack+Web+%26+Mobile+Developer;Python+%7C+PHP+%7C+C%23+%7C+JavaScript+%7C+Dart;FastAPI+%7C+Laravel+%7C+.NET+%7C+Flutter" />
+<br>
 
-<a href="https://linkedin.com/in/hooriyaparveen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hoork7785@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/HooriyaAhmed"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=flat-square&color=2563EB&label=VIEWS"/>
+<p>
+<a href="https://linkedin.com/in/hooriyaparveen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hoork7785@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/HooriyaAhmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
-## 📌 Profile Summary
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<table>
-<tr>
-<td>
+## 📌 About Me
 
 Software Engineering graduate and Full-Stack Developer specializing in the design and delivery of **responsive web applications**, **backend services**, and **cross-platform mobile solutions**.
 
 Experienced across the full development lifecycle — from frontend interfaces and REST API architecture to database design and mobile deployment — with a consistent focus on **clean code, scalable architecture, and thoughtful UI/UX**.
 
-Open to full-time opportunities, freelance projects, and collaborative software development work.
+```yaml
+name: Hooriya Ahmed
+role: Full-Stack Software Engineer
+focus: [Web Development, Backend APIs, Mobile Apps, UI/UX]
+status: Open to full-time roles, freelance work & collaborations
+```
 
-</td>
-</tr>
-</table>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🧰 Technical Skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **Frontend**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-**Mobile**
-<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-
-**Tools**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 **Backend**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
-**Databases**
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-**Design**
-<br>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-2563EB?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graphic%20Design-2563EB?style=flat-square&logo=adobe&logoColor=white"/>
+**Mobile**
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
----
+**Database**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+**Tools & Design**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎯 Areas of Focus
 
-<table>
+<table width="100%">
 <tr>
-<th width="25%">Area</th>
-<th>Details</th>
+<td width="20%" align="center"><strong>🌐 Web Apps</strong></td>
+<td>Responsive, user-focused web applications built with modern frontend and backend technologies.</td>
 </tr>
 <tr>
-<td><strong>🌐 Web Applications</strong></td>
-<td>Responsive, user-focused web apps built with modern frontend and backend technologies.</td>
-</tr>
-<tr>
-<td><strong>🔌 REST APIs</strong></td>
+<td align="center"><strong>🔌 REST APIs</strong></td>
 <td>Backend services and APIs designed with Python (FastAPI), PHP, and Laravel.</td>
 </tr>
 <tr>
-<td><strong>📱 Mobile Applications</strong></td>
-<td>Cross-platform apps built using Flutter and Dart.</td>
+<td align="center"><strong>📱 Mobile Apps</strong></td>
+<td>Cross-platform applications built using Flutter and Dart.</td>
 </tr>
 <tr>
-<td><strong>🗄️ Database Solutions</strong></td>
+<td align="center"><strong>🗄️ Databases</strong></td>
 <td>Data-driven systems built on MySQL and SQL Server.</td>
 </tr>
 <tr>
-<td><strong>🎨 UI/UX & Graphic Design</strong></td>
+<td align="center"><strong>🎨 UI/UX Design</strong></td>
 <td>Clean, consistent, and user-focused interfaces and visuals.</td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="38%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=HooriyaAhmed&theme=transparent&hide_border=true&fire=2563EB&currStreakLabel=2563EB" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=HooriyaAhmed&theme=tokyonight&hide_border=true" width="65%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HooriyaAhmed&bg_color=ffffff00&color=2563EB&line=2563EB&point=111827&area=true&hide_border=true&custom_title=Contribution%20Activity" width="94%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HooriyaAhmed&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="94%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/HooriyaAhmed/HooriyaAhmed/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<sub>⚙️ Requires a one-time GitHub Actions setup — ask me and I'll walk you through it, or I can generate the workflow file for you.</sub>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 Currently Learning
 
@@ -153,25 +140,25 @@ Open to full-time opportunities, freelance projects, and collaborative software 
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💡 Professional Strengths
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Clean_Code-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive_Development-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem_Solving-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX_Thinking-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Continuous_Learning-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Code-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive_Development-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX_Thinking-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Continuous_Learning-0F172A?style=for-the-badge"/>
 
 </div>
 
----
-
-## 📬 Let's Connect
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
+
+## 📬 Let's Connect
 
 **Open to full-time opportunities, freelance projects, and collaborative software development work.**
 
@@ -184,6 +171,6 @@ Open to full-time opportunities, freelance projects, and collaborative software 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:2563EB,100:0F172A" width="100%"/>
 
 </div>
