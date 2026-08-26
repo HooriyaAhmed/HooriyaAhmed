@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:0A66C2,100:00C9FF&height=220&section=header&text=HOORIYA%20AHMED&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20GRADUATE&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hooriya%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Hooriya+Ahmed+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+PHP+%7C+C%23+%7C+Dart+%F0%9F%9A%80;Web+%26+Mobile+Application+Developer+%F0%9F%93%B1;UI%2FUX+%26+Graphic+Design+Enthusiast+%F0%9F%8E%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6A0DAD&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Software+Engineering+Graduate;Web+%26+Mobile+Application+Developer;Python+%7C+PHP+%7C+C%23+%7C+Dart;UI%2FUX+%26+Graphic+Design" />
 
 <br><br>
 
 <a href="https://linkedin.com/in/hooriyaparveen">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:hoork7785@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/HooriyaAhmed">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -34,39 +34,57 @@
 
 </div>
 
-I'm a **Software Engineering graduate and Full-Stack Developer** passionate about building modern, responsive, and user-friendly digital solutions.
+<div align="center">
 
-💻 I work across **frontend, backend, databases, and mobile development**.
+**Software Engineering Graduate • Full-Stack Developer • UI/UX & Graphic Design**
 
-🚀 I enjoy turning ideas into functional applications and continuously improving my development skills.
+<br>
 
-🎨 I also have an interest in **UI/UX and Graphic Design**, allowing me to combine development with creative design.
+I am a passionate developer focused on creating **responsive, user-friendly web and mobile applications**.
+
+I work with modern development technologies across **frontend, backend, databases, APIs, and mobile development**.
+
+I enjoy combining **clean development practices with creative UI/UX and graphic design** to build meaningful digital experiences.
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## ⚡ TECH STACK
+## 🛠️ TECH STACK
+
+<br>
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-### 🧠 Programming & Backend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,php,cs,dotnet,laravel,fastapi&perline=6" />
+### ⚙️ Backend & Programming
+
+<img src="https://skillicons.dev/icons?i=python,php,cs,dotnet,laravel,fastapi" />
+
+<br><br>
 
 ### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=dart,flutter&perline=2" />
+<img src="https://skillicons.dev/icons?i=dart,flutter" />
 
-### 🗄️ Database
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,mssql&perline=2" />
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+
+<br><br>
 
 ### 🎨 Design & Tools
 
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=4" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 
 <br>
 
@@ -78,21 +96,110 @@ I'm a **Software Engineering graduate and Full-Stack Developer** passionate abou
 
 <div align="center">
 
-## 🚀 WHAT I BUILD
+## 🚀 DEVELOPMENT FOCUS
+
+<table>
+<tr>
+<td align="center" width="200">
+
+🌐  
+**Web Development**
+
+</td>
+
+<td align="center" width="200">
+
+⚡  
+**REST APIs**
+
+</td>
+
+<td align="center" width="200">
+
+📱  
+**Mobile Apps**
+
+</td>
+
+<td align="center" width="200">
+
+🎨  
+**UI/UX Design**
+
+</td>
+</tr>
+</table>
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   🌐 Responsive Web Applications                 ║
-║                                                  ║
-║   ⚙️  Backend Systems & REST APIs                ║
-║                                                  ║
-║   📱 Cross-Platform Mobile Applications          ║
-║                                                  ║
-║   🗄️  Database-Driven Applications              ║
-║                                                  ║
-║   🎨 UI/UX & Graphic Design                     ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+---
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=HooriyaAhmed&theme=tokyonight&hide_border=true" width="65%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 CONTRIBUTION ACTIVITY
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HooriyaAhmed&theme=tokyo-night&hide_border=true&area=true&custom_title=Hooriya%20Ahmed's%20Contribution%20Activity" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENTLY FOCUSING ON
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+%26+FastAPI;REST+API+Development;Full-Stack+Web+Development;Flutter+%26+Dart;SQL+%26+Database+Development;UI%2FUX+%26+Graphic+Design" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 LET'S CONNECT
+
+<br>
+
+**Open to professional opportunities, collaborations, and development projects.**
+
+<br><br>
+
+<a href="https://linkedin.com/in/hooriyaparveen">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hoork7785@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=6A0DAD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Let's+build+something+amazing+%F0%9F%9A%80" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn" width="100%"/>
+
+</div>
