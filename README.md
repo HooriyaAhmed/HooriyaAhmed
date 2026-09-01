@@ -1,169 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hooriya%20Ahmed&fontSize=52&fontColor=00E5FF&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&color=0:0D1117,100:111827" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Web+%26+Mobile+Developer;Python+%7C+PHP+%7C+C%23+%7C+JavaScript+%7C+Dart;FastAPI+%7C+Laravel+%7C+.NET+%7C+Flutter;Building+Clean%2C+Scalable+%26+User-Focused+Software" />
+<br>
+
+# Hooriya Ahmed
+
+### Full-Stack Software Engineer
+
+<p>
+Building scalable web applications, REST APIs & cross-platform mobile solutions.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PYTHON-111827?style=flat-square&logo=python&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/FASTAPI-111827?style=flat-square&logo=fastapi&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LARAVEL-111827?style=flat-square&logo=laravel&logoColor=FFB300"/>
+<img src="https://img.shields.io/badge/FLUTTER-111827?style=flat-square&logo=flutter&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-111827?style=flat-square&logo=javascript&logoColor=FFB300"/>
+</p>
 
 <br>
 
 <a href="https://linkedin.com/in/hooriyaparveen">
-<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-00E5FF?style=for-the-badge&logo=linkedin&logoColor=111827"/>
 </a>
 &nbsp;
 <a href="mailto:hoork7785@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFB300?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-FFB300?style=for-the-badge&logo=gmail&logoColor=111827"/>
 </a>
 &nbsp;
 <a href="https://github.com/HooriyaAhmed">
-<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-00E5FF?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About Me
+## `01` — About
 
-I am a **Software Engineering graduate and Full-Stack Developer** focused on building responsive web applications, backend services, REST APIs, and cross-platform mobile applications.
+> **Software Engineering Graduate · Full-Stack Developer · Problem Solver**
 
-I work across the development lifecycle — from **frontend development and backend architecture to database design and application development** — with an emphasis on clean code, maintainable architecture, responsive interfaces, and practical user experiences.
+I’m a **Software Engineering graduate** focused on building reliable and user-focused software across web, backend, API, database, and mobile environments.
 
-### What I Do
+My development approach combines **clean architecture, responsive interfaces, structured backend systems, and practical database design** to turn ideas into functional software.
 
-* Develop responsive and user-focused web applications
-* Build RESTful APIs and backend services
-* Design and work with relational databases
-* Develop cross-platform mobile applications
-* Create clean and consistent UI/UX experiences
-* Continuously improve my development and problem-solving skills
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="45"/>
-
-<br><br>
-
-### Backend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="45"/>
-
-<br><br>
-
-### Mobile Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="45"/>
-
-<br><br>
-
-### Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/>
-
-<br><br>
-
-### Tools & Design
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45"/>
-
-</div>
+```text
+Frontend       → HTML · CSS · JavaScript · Bootstrap
+Backend        → Python · FastAPI · PHP · Laravel · C# · .NET
+Mobile         → Flutter · Dart
+Databases      → MySQL · SQL Server
+Tools          → Git · GitHub · VS Code · Figma
+```
 
 ---
 
-## Core Expertise
-
-| Area                    | Focus                                          |
-| ----------------------- | ---------------------------------------------- |
-| **Web Development**     | Responsive and user-focused web applications   |
-| **Backend Development** | Python, FastAPI, PHP, Laravel & .NET           |
-| **REST APIs**           | API design, integration and backend services   |
-| **Mobile Development**  | Flutter & Dart cross-platform applications     |
-| **Databases**           | MySQL & SQL Server                             |
-| **UI/UX**               | Clean, consistent and user-centered interfaces |
-| **Version Control**     | Git & GitHub                                   |
-
----
-
-## Featured Projects
+## `02` — Engineering Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### Smart QR Attendance System
+### FRONTEND
 
-A role-based attendance management system designed around QR-based student attendance.
-
-**Tech:** Python • FastAPI • REST API • MySQL
-
-</td>
-
-<td width="50%">
-
-### Full-Stack Web Applications
-
-Responsive applications combining modern frontend interfaces with structured backend services and relational databases.
-
-**Tech:** HTML • CSS • JavaScript • PHP • MySQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Cross-Platform Mobile Apps
-
-Mobile applications developed with a focus on responsive interfaces, usability and maintainable application architecture.
-
-**Tech:** Flutter • Dart
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="38"/>
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### Database-Driven Systems
+### BACKEND
 
-Applications designed around structured data, relational database concepts and efficient CRUD operations.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="38"/>
 
-**Tech:** MySQL • SQL Server
+</td>
+
+<td align="center" width="25%">
+
+### MOBILE
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="38"/>
+
+<br><br>
+
+Cross-platform<br>Application Development
+
+</td>
+
+<td align="center" width="25%">
+
+### DATABASE
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38"/>
+
+<br><br>
+
+Relational<br>Database Systems
 
 </td>
 </tr>
@@ -173,84 +122,175 @@ Applications designed around structured data, relational database concepts and e
 
 ---
 
-## GitHub Analytics
+## `03` — What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### Web Applications
+
+Responsive, accessible and user-focused web applications with modern frontend architecture and structured backend systems.
+
+</td>
+
+<td width="50%">
+
+### REST APIs
+
+Clean backend services and REST APIs using Python, FastAPI, PHP and Laravel.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Mobile Applications
+
+Cross-platform mobile applications using Flutter and Dart with focus on usability and performance.
+
+</td>
+
+<td width="50%">
+
+### Database Systems
+
+Data-driven applications using relational database design, CRUD operations and structured data management.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — Featured Work
+
+### Smart QR Attendance Management System
+
+**A role-based attendance platform built around QR-based attendance tracking.**
+
+```text
+Admin / Teacher
+      │
+      ├── Manage Students
+      ├── Manage Classes
+      ├── Manage Subjects
+      ├── Start Attendance Session
+      └── Attendance Reports
+               │
+               ▼
+        QR Attendance
+               │
+               ▼
+          Student
+      ├── Registration
+      ├── Personal QR Code
+      ├── Attendance History
+      └── Attendance Percentage
+```
+
+**Technology:** Python · FastAPI · REST API · MySQL
+
+---
+
+### Full-Stack Web Development
+
+Building complete applications from interface to database layer.
+
+**Technology:** HTML · CSS · JavaScript · Bootstrap · PHP · Laravel · MySQL
+
+---
+
+### Cross-Platform Mobile Development
+
+Developing mobile applications with reusable UI components and structured application logic.
+
+**Technology:** Flutter · Dart
+
+---
+
+## `05` — Development Principles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://img.shields.io/badge/CLEAN%20CODE-111827?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20FIRST-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-111827?style=for-the-badge"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" width="38%"/>
+</div>
+
+---
+
+## `06` — GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&text_color=C9D1D9&include_all_commits=true&count_private=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" width="40%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=HooriyaAhmed&hide_border=true&background=0D1117&ring=00E5FF&fire=FFB300&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=HooriyaAhmed&hide_border=true&background=0D1117&ring=00E5FF&fire=FFB300&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="62%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HooriyaAhmed&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFB300&area=true&hide_border=true&custom_title=Contribution%20Activity" width="94%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HooriyaAhmed&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFB300&area=true&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
 
 </div>
 
 ---
 
-## Currently Learning
+## `07` — Currently Exploring
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=FFB300&center=true&vCenter=true&width=750&lines=Advanced+Python+%26+FastAPI;REST+API+Architecture;Full-Stack+Application+Design;Flutter+%26+Dart;Database+Engineering;Modern+UI%2FUX+Practices" />
+`Advanced Python`
+  •  
+`FastAPI`
+  •  
+`REST API Architecture`
+  •  
+`Full-Stack Development`
+  •  
+`Flutter`
+  •  
+`Database Engineering`
+  •  
+`UI/UX`
 
 </div>
 
 ---
 
-## Professional Strengths
+## `08` — Career Focus
 
-<div align="center">
+I’m looking to contribute to **real-world software products**, collaborate with development teams, and continue growing as a professional software engineer.
 
-<img src="https://img.shields.io/badge/CLEAN_CODE-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
-<img src="https://img.shields.io/badge/RESPONSIVE_DEVELOPMENT-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
-<img src="https://img.shields.io/badge/PROBLEM_SOLVING-0D1117?style=for-the-badge&labelColor=0D1117&color=FFB300"/>
-<img src="https://img.shields.io/badge/API_DEVELOPMENT-0D1117?style=for-the-badge&labelColor=0D1117&color=FFB300"/>
-<img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
-<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
+**Interested in:**
 
-</div>
-
----
-
-## Career Focus
-
-I am interested in opportunities where I can contribute to real-world software projects, strengthen my engineering skills, and grow within a professional development environment.
-
-**Open to:**
-
-* Full-Time Software Development Roles
-* Junior / Entry-Level Full-Stack Roles
-* Web Development Opportunities
-* Backend / API Development
-* Freelance Projects
-* Collaborative Software Projects
+`Full-Stack Development` · `Backend Development` · `REST APIs` · `Web Applications` · `Mobile Development`
 
 ---
 
 <div align="center">
 
-## Let's Connect
+### Let’s Build Something Meaningful.
 
 <a href="https://linkedin.com/in/hooriyaparveen">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
-</a>
-&nbsp;
-<a href="mailto:hoork7785@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-FFB300?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=111827"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Turning+ideas+into+reliable+software.;Building+%7C+Learning+%7C+Improving.;Thanks+for+visiting+my+profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Code.+Create.+Learn.+Improve.;Turning+ideas+into+reliable+software." />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=fadeIn&color=0:111827,100:0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:0D1117" width="100%"/>
 
 </div>
