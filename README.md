@@ -1,296 +1,233 @@
+```md
+<!-- ========================================================= -->
+<!--                    HOORIYA AHMED README                    -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:06B6D4,100:22D3EE&height=220&section=header&text=Hooriya%20Ahmed&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
-# Hooriya Ahmed
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Web+%26+Application+Developer;Python+%7C+PHP+%7C+JavaScript+Developer;FastAPI+%7C+Laravel+%7C+Flutter;Building+Clean+%26+Responsive+Digital+Experiences" />
 
-### Full-Stack Software Engineer
+<br><br>
 
-<p>
-Building scalable web applications, REST APIs & cross-platform mobile solutions.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/PYTHON-111827?style=flat-square&logo=python&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/FASTAPI-111827?style=flat-square&logo=fastapi&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/LARAVEL-111827?style=flat-square&logo=laravel&logoColor=FFB300"/>
-<img src="https://img.shields.io/badge/FLUTTER-111827?style=flat-square&logo=flutter&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-111827?style=flat-square&logo=javascript&logoColor=FFB300"/>
-</p>
-
-<br>
-
-<a href="https://linkedin.com/in/hooriyaparveen">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-00E5FF?style=for-the-badge&logo=linkedin&logoColor=111827"/>
-</a>
-&nbsp;
-<a href="mailto:hoork7785@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-FFB300?style=for-the-badge&logo=gmail&logoColor=111827"/>
-</a>
-&nbsp;
 <a href="https://github.com/HooriyaAhmed">
-<img src="https://img.shields.io/badge/GitHub-Projects-00E5FF?style=for-the-badge&logo=github&logoColor=111827"/>
+<img src="https://img.shields.io/badge/GitHub-HooriyaAhmed-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-## `01` — About
-
-> **Software Engineering Graduate · Full-Stack Developer · Problem Solver**
-
-I’m a **Software Engineering graduate** focused on building reliable and user-focused software across web, backend, API, database, and mobile environments.
-
-My development approach combines **clean architecture, responsive interfaces, structured backend systems, and practical database design** to turn ideas into functional software.
-
-```text
-Frontend       → HTML · CSS · JavaScript · Bootstrap
-Backend        → Python · FastAPI · PHP · Laravel · C# · .NET
-Mobile         → Flutter · Dart
-Databases      → MySQL · SQL Server
-Tools          → Git · GitHub · VS Code · Figma
-```
-
----
-
-## `02` — Engineering Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### FRONTEND
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="38"/>
-
-</td>
-
-<td align="center" width="25%">
-
-### BACKEND
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="38"/>
-
-</td>
-
-<td align="center" width="25%">
-
-### MOBILE
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="38"/>
-
-<br><br>
-
-Cross-platform<br>Application Development
-
-</td>
-
-<td align="center" width="25%">
-
-### DATABASE
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38"/>
-
-<br><br>
-
-Relational<br>Database Systems
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `03` — What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### Web Applications
-
-Responsive, accessible and user-focused web applications with modern frontend architecture and structured backend systems.
-
-</td>
-
-<td width="50%">
-
-### REST APIs
-
-Clean backend services and REST APIs using Python, FastAPI, PHP and Laravel.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Mobile Applications
-
-Cross-platform mobile applications using Flutter and Dart with focus on usability and performance.
-
-</td>
-
-<td width="50%">
-
-### Database Systems
-
-Data-driven applications using relational database design, CRUD operations and structured data management.
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — Featured Work
-
-### Smart QR Attendance Management System
-
-**A role-based attendance platform built around QR-based attendance tracking.**
-
-```text
-Admin / Teacher
-      │
-      ├── Manage Students
-      ├── Manage Classes
-      ├── Manage Subjects
-      ├── Start Attendance Session
-      └── Attendance Reports
-               │
-               ▼
-        QR Attendance
-               │
-               ▼
-          Student
-      ├── Registration
-      ├── Personal QR Code
-      ├── Attendance History
-      └── Attendance Percentage
-```
-
-**Technology:** Python · FastAPI · REST API · MySQL
-
----
-
-### Full-Stack Web Development
-
-Building complete applications from interface to database layer.
-
-**Technology:** HTML · CSS · JavaScript · Bootstrap · PHP · Laravel · MySQL
-
----
-
-### Cross-Platform Mobile Development
-
-Developing mobile applications with reusable UI components and structured application logic.
-
-**Technology:** Flutter · Dart
-
----
-
-## `05` — Development Principles
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CLEAN%20CODE-111827?style=for-the-badge&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20FIRST-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-111827?style=for-the-badge"/>
-
-</div>
-
----
-
-## `06` — GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&text_color=C9D1D9&include_all_commits=true&count_private=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" width="40%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=HooriyaAhmed&hide_border=true&background=0D1117&ring=00E5FF&fire=FFB300&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="62%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HooriyaAhmed&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFB300&area=true&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
-
-</div>
-
----
-
-## `07` — Currently Exploring
-
-<div align="center">
-
-`Advanced Python`
-  •  
-`FastAPI`
-  •  
-`REST API Architecture`
-  •  
-`Full-Stack Development`
-  •  
-`Flutter`
-  •  
-`Database Engineering`
-  •  
-`UI/UX`
-
-</div>
-
----
-
-## `08` — Career Focus
-
-I’m looking to contribute to **real-world software products**, collaborate with development teams, and continue growing as a professional software engineer.
-
-**Interested in:**
-
-`Full-Stack Development` · `Backend Development` · `REST APIs` · `Web Applications` · `Mobile Development`
-
----
-
-<div align="center">
-
-### Let’s Build Something Meaningful.
 
 <a href="https://linkedin.com/in/hooriyaparveen">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=111827"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hooriya%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hoork7785@gmail.com">
+<img src="https://img.shields.io/badge/Email-hoork7785%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Code.+Create.+Learn.+Improve.;Turning+ideas+into+reliable+software." />
+<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square"/>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+I am a **Software Engineering graduate** and **Full-Stack Developer** with a strong foundation in modern web and application development.
+
+I enjoy transforming ideas into **clean, responsive and user-focused digital experiences** while combining development with creative UI/UX and graphic design.
+
+### What I Focus On
+
+- 💻 Full-Stack Web Development
+- ⚡ REST API Development
+- 🐍 Python & FastAPI
+- 🌐 JavaScript & Modern Web Technologies
+- 📱 Cross-Platform Application Development
+- 🎨 UI/UX & Graphic Design
+- 🗄️ Database Development
+- 🔧 Git & GitHub Workflow
+
+<br clear="right"/>
+
+---
+
+# 🛠️ Technology Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs,dart" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,laravel,fastapi,flutter" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=06B6D4&text_color=CBD5E1&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HooriyaAhmed&hide_border=true&background=0F172A&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" width="70%"/>
+
+</div>
+
+---
+
+# 🚀 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+Responsive and scalable web applications with modern frontend and backend technologies.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ REST APIs
+
+Structured backend services and APIs designed for reliable application communication.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Applications
+
+Cross-platform application development with clean interfaces and practical functionality.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Digital Experiences
+
+Modern UI/UX designs combining usability, accessibility and visual consistency.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📁 Projects
+
+<div align="center">
+
+<a href="https://github.com/HooriyaAhmed?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:0D1117" width="100%"/>
+<i>Explore my repositories, applications and development work.</i>
 
 </div>
+
+---
+
+# 🧠 Development Principles
+
+<div align="center">
+
+| Principle | Approach |
+|:---:|:---|
+| 🎯 **Clean Code** | Readable, maintainable and structured code |
+| 📱 **Responsive Design** | Interfaces that work across devices |
+| 🔐 **Security** | Reliable and responsible development practices |
+| ⚡ **Performance** | Efficient and optimized solutions |
+| 🎨 **UI/UX** | Simple, intuitive and modern interfaces |
+| 🔄 **Continuous Learning** | Always improving technical skills |
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Advanced+FastAPI;REST+API+Architecture;Modern+JavaScript;Backend+Development;Database+Optimization;Professional+Software+Engineering" />
+
+</div>
+
+---
+
+# 🎯 Career Focus
+
+> **Building reliable software, improving continuously, and creating digital products that solve real-world problems.**
+
+I am currently focused on growing as a **professional software developer** and contributing to meaningful projects within a collaborative development environment.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/HooriyaAhmed">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/hooriyaparveen">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hoork7785@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ✨ Let's Build Something Meaningful.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:06B6D4,100:0F172A&height=120&section=footer" width="100%"/>
+
+</div>
+```
