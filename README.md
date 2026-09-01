@@ -1,287 +1,148 @@
-```md
 <div align="center">
 
-# HOORIYA AHMED
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:6D28D9&height=180&section=header&text=Hooriya%20Ahmed&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descAlignY=56&descSize=18" width="100%"/>
 
-### `Full-Stack Software Engineer`
+<p>
+  <strong>Software Engineering Graduate from Aptech</strong>&nbsp;&nbsp;·&nbsp;&nbsp;<strong>Web Developer</strong>&nbsp;&nbsp;·&nbsp;&nbsp;<strong>Application Developer</strong>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Software+Engineering+Graduate;Full-Stack+Developer;Web+%26+Application+Developer;Python+%7C+PHP+%7C+JavaScript;FastAPI+%7C+Laravel+%7C+Flutter;Building+Modern+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+clean%2C+responsive+web+applications;Full-stack+development+%7C+APIs+%7C+Databases;Turning+ideas+into+working+software" alt="Typing animation"/>
 
 <br>
 
-<a href="https://github.com/HooriyaAhmed">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/HooriyaAhmed"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://linkedin.com/in/hooriyaparveen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:hoork7785@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<a href="https://linkedin.com/in/hooriyaparveen">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<br/><br/>
 
-<a href="mailto:hoork7785@gmail.com">
-<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile views"/>
+
+</div>
+
+<br>
+
+## About Me
+
+<div align="center">
+
+I'm a Software Engineering graduate and full-stack developer with a strong foundation in web development, backend systems, databases, and application development.<br/>
+I focus on building <strong>clean, responsive, and user-focused digital products</strong> — from the database and API layer up through the interface someone actually uses.
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HooriyaAhmed&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## `01` — PROFILE
-
-</div>
 
 <table>
 <tr>
-<td width="65%" valign="top">
-
-### 👋 Hello, I'm Hooriya
-
-I am a **Software Engineering graduate** and **Full-Stack Developer** passionate about building clean, responsive and user-focused digital solutions.
-
-My development journey focuses on combining **strong programming fundamentals, backend development, databases and modern UI/UX** to create practical applications.
-
-I enjoy learning new technologies, improving my development workflow and turning ideas into functional software.
-
+<td align="center" width="220">
+<strong>Currently</strong><br/>
+Growing as a full-stack<br/>developer through real projects
 </td>
-
-<td width="35%" align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,php,cs,dart,html,css" />
-
-<br><br>
-
-**Software Engineering**
-
-**Full-Stack Development**
-
-**UI / UX**
-
+<td align="center" width="220">
+<strong>Open to</strong><br/>
+Internships, junior roles<br/>&amp; freelance work
+</td>
+<td align="center" width="220">
+<strong>Exploring</strong><br/>
+Python for AI/ML in<br/>real-world software
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## `02` — TECHNOLOGY
-
 </div>
 
-### `LANGUAGES`
+<br>
+
+## Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs,dart" />
+<strong>Frontend</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend stack"/>
+
+<br/><br/>
+
+<strong>Backend</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,php,laravel,cs,fastapi&theme=dark" alt="Backend stack"/>
+
+<br/><br/>
+
+<strong>Databases &amp; Mobile</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,flutter,dart&theme=dark" alt="Databases and mobile stack" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="48" style="margin-left:8px;background:#1e1e1e;border-radius:8px;padding:6px;"/>
+
+<br/><br/>
+
+<strong>Tools</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark" alt="Tools"/>
 
 </div>
 
 <br>
 
-### `FRAMEWORKS & DEVELOPMENT`
+## Future Interests
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=bootstrap,laravel,fastapi,flutter" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI/ML interests"/>
+
+<br/><br/>
+
+Currently exploring <strong>Artificial Intelligence &amp; Machine Learning</strong> — applying Python-based ML tooling to real-world software, with a focus on practical, production-ready use cases rather than research alone.
 
 </div>
 
 <br>
 
-### `DATABASES`
+## What I Work On
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+| Area | Details |
+|:--:|:--|
+| **Web Development** | Responsive interfaces in HTML, CSS, JavaScript, and Bootstrap, backed by server-side logic in Python, PHP/Laravel, or C#. |
+| **APIs & Databases** | Designing and consuming REST APIs (FastAPI), with relational databases in MySQL and SQL Server. |
+| **Application Development** | Cross-platform mobile apps with Flutter and Dart, integrated with APIs and databases. |
+| **UI/UX & Design** | Clean layouts, visual consistency, and intuitive user flows, designed in Figma. |
 
 </div>
 
 <br>
 
-### `TOOLS`
+## GitHub Streak
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HooriyaAhmed&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak Stats" width="90%"/>
 
 </div>
-
----
-
-<div align="center">
-
-## `03` — DEVELOPMENT
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🌐
-**WEB**
-
-Responsive  
-Web Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-**BACKEND**
-
-REST APIs  
-Server-Side Development
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱
-**MOBILE**
-
-Cross-Platform  
-Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-**DESIGN**
-
-UI/UX  
-Digital Design
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `04` — PROJECTS
-
-### Explore my development work
-
-<a href="https://github.com/HooriyaAhmed?tab=repositories">
-
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `05` — GITHUB ANALYTICS
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HooriyaAhmed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooriyaAhmed&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9"/>
 
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=HooriyaAhmed&theme=github-dark-blue&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4"/>
-
-</div>
-
----
+## Career Focus
 
 <div align="center">
 
-## `06` — ENGINEERING MINDSET
+> Focused on growing as a full-stack developer and gaining practical experience through real software development opportunities — learning, contributing, collaborating, and building meaningful digital products.
 
 </div>
 
-<table>
-<tr>
-<td>
-
-**01 · Clean Code**
-
-Writing readable, organized and maintainable code.
-
-</td>
-<td>
-
-**02 · Responsive Design**
-
-Creating interfaces that work across different devices.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**03 · Problem Solving**
-
-Breaking complex requirements into practical solutions.
-
-</td>
-<td>
-
-**04 · Continuous Learning**
-
-Constantly improving technical and development skills.
-
-</td>
-</tr>
-</table>
-
----
+<br>
 
 <div align="center">
 
-## `07` — CURRENTLY EXPLORING
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:1F2937&height=140&section=footer"/>
 
-<br>
+<a href="https://github.com/HooriyaAhmed"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://linkedin.com/in/hooriyaparveen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:hoork7785@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Advanced+Python;FastAPI+Architecture;REST+API+Development;Backend+Engineering;Database+Optimization;Modern+Web+Development" />
-
-</div>
-
----
-
-<div align="center">
-
-## `08` — CONNECT
-
-<br>
-
-<a href="https://github.com/HooriyaAhmed">
-<img src="https://skillicons.dev/icons?i=github" width="42"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/hooriyaparveen">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:hoork7785@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
-</a>
-
-<br><br>
-
-### `Let's build something meaningful.`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0891B2,100:0D1117&height=110&section=footer"/>
+<br/><br/>
+<strong>Let's build something great.</strong>
 
 </div>
-```
